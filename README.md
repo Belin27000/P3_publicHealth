@@ -32,8 +32,8 @@ L'agence Santé publique France souhaite améliorer la base de données **Open F
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/your-username/HealthPublicDataProject.git
-cd HealthPublicDataProject
+git clone https://github.com/Belin27000/P3_publicHealth.git
+cd P3_publicHealth
 ```
 
 ### 2. Créer et activer l'environnement virtuel
@@ -51,6 +51,7 @@ pip install -r requirements.txt
 ### 4. Préparer le jeu de données
 - Créer un dossier `data` à la racine du projet.
 - Télécharger le jeu de données Open Food Facts à partir de ce [lien](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip) et l'enregistrer sous `datas/openfoodfacts.csv`.
+- La définition des variables du jeu de données: [ici](https://world.openfoodfacts.org/data/data-fields.txt)
 
 ## Utilisation
 
