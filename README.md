@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Utilisation
 
-1. **Nettoyage des données** : Le notebook `P3_publicHealth_rev1.ipynb` contient les étapes pour nettoyer les données et traiter les valeurs manquantes et aberrantes.
+1. **Nettoyage des données** : Le notebook `P3_publicHealth.ipynb` contient les étapes pour nettoyer les données et traiter les valeurs manquantes et aberrantes.
 
 
 2. **Exploration des données** : Utiliser le notebook `data_exploration.ipynb` pour explorer les différentes variables et visualiser les résultats.
