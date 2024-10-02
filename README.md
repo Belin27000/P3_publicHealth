@@ -40,7 +40,14 @@ cd P3_publicHealth
 ```bash
 pip install virtualenv
 virtualenv env
+```
+#### Linux or Mac, activate 
+```bash
 source env/bin/activate
+```
+#### Windows, activate 
+```bash
+.\env/bin/activate
 ```
 
 ### 3. Installer les dépendances
